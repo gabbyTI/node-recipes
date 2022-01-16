@@ -1,0 +1,126 @@
+[
+	{
+		"name": "Zucchini slice",
+		"duration": 60,
+		"ingredients": [
+			"5 eggs",
+			"150g (1 cup) self-raising flour, sifted",
+			"375g zucchini, grated",
+			"1 large onion, finely chopped",
+			"200g rindless bacon, chopped",
+			"1 cup grated cheddar cheese",
+			"60ml (1/4 cup) vegetable oil"
+		],
+		"steps": [
+			"Nulla commodo magna laboris duis.",
+			"Dolore dolor incididunt nulla et est enim adipisicing minim pariatur tempor officia elit amet.",
+			"Est consequat consequat proident elit ex laboris ad reprehenderit ullamco aute incididunt dolor.",
+			"Pariatur culpa culpa magna cillum ad incididunt dolore elit officia ad exercitation duis.",
+			"Non dolor id proident ipsum tempor pariatur eiusmod anim velit.",
+			"Cillum incididunt duis sit cupidatat exercitation mollit esse ea veniam pariatur elit velit."
+		],
+		"difficulty": "easy",
+		"description": "Incididunt cillum non elit tempor ad.",
+		"foodimage": "food-1.jpg",
+		"isVegan": false
+	},
+	{
+		"name": "Pumpkin soup",
+		"duration": 90,
+		"ingredients": [
+			"2 tbsp olive oil",
+			"1 onion, finely chopped",
+			"1 leek, white part only, finely sliced",
+			"1 garlic clove, crushed",
+			"1/2 tsp ground coriander",
+			"1 cup grated cheddar cheese",
+			"60ml (1/4 cup) vegetable oil",
+			"1/2 tsp freshly grated nutmeg",
+			"1kg peeled pumpkin, diced",
+			"1 large potato, peeled, diced",
+			"1L Massel chicken style liquid stock or vegetable liquid stock",
+			"1/2 cup (125ml) thin cream",
+			"60ml (1/4 cup) vegetable oil",
+			"375g zucchini, grated",
+			"1 large onion, finely chopped"
+		],
+		"steps": [
+			"Preheat oven to 170C.",
+			"Beat the eggs in a large bowl until combined. Add the flour and beat until smooth, then add zucchini, onion, bacon, cheese and oil and stir to combine.",
+			"Grease and line a 30 x 20cm lamington pan. Pour into the prepared pan and bake in oven for 30 minutes or until cooked through."
+		],
+		"difficulty": "medium",
+		"description": "Incididunt cillum non elit tempor ad.",
+		"foodimage": "food-2.jpg",
+		"isVegan": false
+	},
+	{
+		"name": "fried rice",
+		"duration": 90,
+		"ingredients": [
+			"2 tbsp olive oil",
+			"1 onion, finely chopped",
+			"1L Massel chicken style liquid stock or vegetable liquid stock",
+			"1/2 cup (125ml) thin cream",
+			"60ml (1/4 cup) vegetable oil",
+			"375g zucchini, grated",
+			"1 large onion, finely chopped"
+		],
+		"steps": [
+			"Aute fugiat fugiat amet exercitation est non reprehenderit elit.",
+			"Non consectetur sit Lorem elit nulla quis culpa veniam et.",
+			"Grease and line a 30 x 20cm lamington pan. Pour into the prepared pan and bake in oven for 30 minutes or until cooked through.",
+			"Minim ipsum sunt minim Lorem reprehenderit anim exercitation sunt adipisicing proident culpa incididunt fugiat.",
+			"Velit aliquip laborum excepteur qui in mollit quis cupidatat quis magna dolore esse anim ullamco.",
+			"Ex reprehenderit exercitation adipisicing ea aliqua.",
+			"Tempor aute magna amet nulla Lorem ad.",
+			"Ad fugiat esse ipsum dolor duis id occaecat fugiat voluptate eiusmod.",
+			"Quis pariatur elit fugiat officia enim adipisicing aute magna cupidatat."
+		],
+		"difficulty": "hard",
+		"description": "Incididunt cillum non elit tempor ad.",
+		"foodimage": "food-3.jpg",
+		"isVegan": true
+	},
+	{
+		"name": "jollof rice",
+		"duration": 70,
+		"ingredients": [
+			"2 tbsp olive oil",
+			"1 onion, finely chopped",
+			"1 large potato, peeled, diced",
+			"1L Massel chicken style liquid stock or vegetable liquid stock",
+			"1/2 cup (125ml) thin cream",
+			"60ml (1/4 cup) vegetable oil",
+			"375g zucchini, grated",
+			"1 large onion, finely chopped"
+		],
+		"steps": [
+			"Aute fugiat fugiat amet exercitation est non reprehenderit elit.",
+			"Non consectetur sit Lorem elit nulla quis culpa veniam et.",
+			"Grease and line a 30 x 20cm lamington pan. Pour into the prepared pan and bake in oven for 30 minutes or until cooked through.",
+			"Minim ipsum sunt minim Lorem reprehenderit anim exercitation sunt adipisicing proident culpa incididunt fugiat.",
+			"Velit aliquip laborum excepteur qui in mollit quis cupidatat quis magna dolore esse anim ullamco.",
+			"Ex reprehenderit exercitation adipisicing ea aliqua.",
+			"Tempor aute magna amet nulla Lorem ad.",
+			"Ad fugiat esse ipsum dolor duis id occaecat fugiat voluptate eiusmod.",
+			"Quis pariatur elit fugiat officia enim adipisicing aute magna cupidatat."
+		],
+		"difficulty": "easy",
+		"description": "Incididunt cillum non elit tempor ad.",
+		"foodimage": "food-4.jpg",
+		"isVegan": true
+	},
+	{
+		"name": "Tea",
+		"duration": 7,
+		"ingredients": ["milk", "hot water"],
+		"steps": [
+			"Aute fugiat fugiat amet exercitation est non reprehenderit elit."
+		],
+		"difficulty": "easy",
+		"description": "Incididunt cillum non elit tempor ad.",
+		"foodimage": "food-5.jpg",
+		"isVegan": false
+	}
+]
