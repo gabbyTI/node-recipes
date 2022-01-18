@@ -54,11 +54,12 @@ module.exports = (error, req, res, next) => {
 		console.log(`This is the Error name ${error.name}`);
 		// eslint-disable-next-line node/no-unsupported-features/es-syntax
 		let err = { ...error };
+
+		err.message = error.message;
+
 		if (error.name === 'CastError') err = handleCastErrorDB(err);
 		if (error.code === 11000) err = handleDuplicateFieldsErrorDB(err);
 		if (error.name === 'ValidationError') err = handleValidatorErrorDB(err);
-
-		err.message = error.message;
 
 		sendErrorProd(err, res);
 	}
